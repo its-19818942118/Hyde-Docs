@@ -1,5 +1,0 @@
-{
-    "title": "API Servers",
-    "icon": "FaGlobe",
-    "pages": ["fastify", "express"]
-}
